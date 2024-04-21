@@ -1,0 +1,37 @@
+{
+  "name": "online-status-js",
+  "version": "0.0.0",
+  "description": "Online Status JS 🌐 is a lightweight npm package that provides a simple function, `checkOnlineStatus`, to determine whether the user is connected to the internet. This package is designed for use in JavaScript applications and is compatible with various JavaScript frameworks and libraries, including React, Vue.js, Angular, and more.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup && git add . && git commit -m 'auto-update :- build' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishcumar/Online-Status-Js-Npm"
+  },
+  "keywords": [
+    "Javascript",
+    "React",
+    "Online status",
+    "Network connectivity",
+    "Offline detection",
+    "Web connectivity",
+    "Internet connection",
+    "Check online",
+    "JavaScript connectivity",
+    "Network status",
+    "Angular",
+    "Vue.js",
+    "Client-side connectivity"
+  ],
+  "homepage": "https://github.com/ashishcumar/Online-Status-Js-Npm",
+  "author": "Ashish",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
