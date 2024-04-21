@@ -9,7 +9,7 @@ You can install Online Status JS via npm:
 ```bash
 npm install online-status-js
 
-// Import the checkOnlineStatus function into your JavaScript file:
+// Import the checkOnlineStatus function into your JavaScript file: 
 import { checkOnlineStatus } from 'online-status-js';
 
 
