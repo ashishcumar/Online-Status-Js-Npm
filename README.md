@@ -2,6 +2,14 @@
 
 Online Status JS is a lightweight npm package designed to check and monitor internet connectivity in JavaScript-based applications. It offers a simple and efficient way to determine whether the user is connected to the internet, enabling developers to create more responsive and user-friendly web experiences.
 
+![Build](https://img.shields.io/github/actions/workflow/status/ashishcumar/useScrollTracker/publish.yml)
+![Fast](https://img.shields.io/badge/fast-4kb-blue)
+![Lightweight](https://img.shields.io/badge/lightweight-4kb-green)
+![Npm-Version](https://img.shields.io/npm/v/online-status-js.svg)
+![Trusted](https://img.shields.io/badge/trusted-orange)
+![No Dependency](https://img.shields.io/badge/dependencies-none-brightgreen)
+
+
 ## 🚀 Installation
 
 You can install Online Status JS via npm:
